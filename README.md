@@ -10,7 +10,7 @@ This app essentially builds a super store where a customer can build a shopping 
 * Tech 4 - MySql, Hibernate
 * Tech 5 - AngularJS
 * Tech 6 - Spring Boot, Spring Data
-* Tech 7 - Maven, Git, DevOps
+* Tech 7 - Maven, Git.
 
 ## Features
 
