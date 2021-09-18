@@ -8,7 +8,7 @@ This app essentially builds a super store where a customer can build a shopping 
 * Tech 2 - JavaScript, TypeScript
 * Tech 3 - Java
 * Tech 4 - MySql, Hibernate
-* Tech 5 - AngularJS
+* Tech 5 - AngularJS, Angular Material
 * Tech 6 - Spring Boot, Spring Data
 * Tech 7 - Maven, Git.
 
