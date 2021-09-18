@@ -1,6 +1,6 @@
 # Online Grocery Store System
 
-This app essentially builds a super store where a customer can build a shopping cart and purchasing items. The manager will be able to add and edit an inventory management system. THE Grocery Store will utilize a grocery store API.
+The Online Grocery Store System, OGSS, developed to give grocery businesses a dedicated online system where customers can shop at their own convenience. The system gives both customers and delivery drivers a real-time dashboard where they can view pending deliveries and their status. New orders are automatically assigned to the drivers with an even distribution algorithm.
 
 ## Technologies Used
 
