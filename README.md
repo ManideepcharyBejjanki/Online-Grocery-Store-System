@@ -1,4 +1,4 @@
-# The_GroceryStore_App
+# Online Grocery Store System
 
 This app essentially builds a super store where a customer can build a shopping cart and purchasing items. The manager will be able to add and edit an inventory management system. THE Grocery Store will utilize a grocery store API.
 
